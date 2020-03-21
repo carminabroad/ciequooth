@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aefewooth.manuel-krummschmidt.de/sitemap.xml
